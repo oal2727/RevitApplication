@@ -1,0 +1,6 @@
+C:\Users\josel\source\repos\AppPlugin\AppPlugin\bin\Debug\AppPlugin.dll
+C:\Users\josel\source\repos\AppPlugin\AppPlugin\bin\Debug\AppPlugin.pdb
+C:\Users\josel\source\repos\AppPlugin\AppPlugin\obj\Debug\AppPlugin.csproj.AssemblyReference.cache
+C:\Users\josel\source\repos\AppPlugin\AppPlugin\obj\Debug\AppPlugin.csproj.CoreCompileInputs.cache
+C:\Users\josel\source\repos\AppPlugin\AppPlugin\obj\Debug\AppPlugin.dll
+C:\Users\josel\source\repos\AppPlugin\AppPlugin\obj\Debug\AppPlugin.pdb
