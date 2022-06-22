@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>AppExternalUIRevit</Name>
+		<Assembly>AppExternalUIRevit.dll</Assembly>
+		<AddInId>5087D63A-02BC-4C8B-8C7C-E44B650831B9</AddInId>
+		<FullClassName>AppExternalUIRevit.Application</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

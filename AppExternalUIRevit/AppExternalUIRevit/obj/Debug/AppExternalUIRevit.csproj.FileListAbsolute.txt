@@ -1,0 +1,6 @@
+C:\Users\josel\source\repos\AppExternalUIRevit\AppExternalUIRevit\bin\Debug\AppExternalUIRevit.dll
+C:\Users\josel\source\repos\AppExternalUIRevit\AppExternalUIRevit\bin\Debug\AppExternalUIRevit.pdb
+C:\Users\josel\source\repos\AppExternalUIRevit\AppExternalUIRevit\obj\Debug\AppExternalUIRevit.csproj.AssemblyReference.cache
+C:\Users\josel\source\repos\AppExternalUIRevit\AppExternalUIRevit\obj\Debug\AppExternalUIRevit.csproj.CoreCompileInputs.cache
+C:\Users\josel\source\repos\AppExternalUIRevit\AppExternalUIRevit\obj\Debug\AppExternalUIRevit.dll
+C:\Users\josel\source\repos\AppExternalUIRevit\AppExternalUIRevit\obj\Debug\AppExternalUIRevit.pdb
