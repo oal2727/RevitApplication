@@ -1,0 +1,8 @@
+C:\Users\josel\source\repos\AppExternalUIForm\AppExternalUIForm\bin\Debug\AppExternalUIForm.dll
+C:\Users\josel\source\repos\AppExternalUIForm\AppExternalUIForm\bin\Debug\AppExternalUIForm.pdb
+C:\Users\josel\source\repos\AppExternalUIForm\AppExternalUIForm\obj\Debug\AppExternalUIForm.csproj.AssemblyReference.cache
+C:\Users\josel\source\repos\AppExternalUIForm\AppExternalUIForm\obj\Debug\AppExternalUIForm.csproj.CoreCompileInputs.cache
+C:\Users\josel\source\repos\AppExternalUIForm\AppExternalUIForm\obj\Debug\AppExternalUIForm.dll
+C:\Users\josel\source\repos\AppExternalUIForm\AppExternalUIForm\obj\Debug\AppExternalUIForm.pdb
+C:\Users\josel\source\repos\AppExternalUIForm\AppExternalUIForm\obj\Debug\AppExternalUIForm.ExampleForm.resources
+C:\Users\josel\source\repos\AppExternalUIForm\AppExternalUIForm\obj\Debug\AppExternalUIForm.csproj.GenerateResource.cache

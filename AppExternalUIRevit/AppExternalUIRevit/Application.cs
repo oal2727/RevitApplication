@@ -39,15 +39,15 @@ namespace AppExternalUIRevit
             // //: D:\Software\DynamicAssemblyLoad\DynamicAssemblyLoad\bin\Debug\
             string thisAssemblyPath = Assembly.GetExecutingAssembly().Location;
             PushButton pushButton = panel.AddItem(new PushButtonData("HelloWorld",
-                "HelloWorld", thisAssemblyPath, "HelloWorld.CsHelloWorld")) as PushButton;
+                "HelloWorld", thisAssemblyPath, "AppExternalUIRevit.Command")) as PushButton;
 
             // Cuerpo
-            pushButton.ToolTip = "Say Hello World";
+            pushButton.ToolTip = "Body Application";
 
             // Set the large image shown on button
             Uri uri = new Uri(@"C:\Users\josel\source\repos\AppExternalUIRevit\AppExternalUIRevit\bin\Debug\dj.ico");
             BitmapImage bitmapImage = new BitmapImage(uri);
-            pushButton.LargeImage = bitmapImage;
+            pushButton.Image = bitmapImage;
 
 
         }
